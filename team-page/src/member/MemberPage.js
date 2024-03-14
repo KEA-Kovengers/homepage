@@ -1,14 +1,19 @@
 import logo from '../logo.png';
 import '../App.css';
-const Sojeong = () => {
+
+
+const MemberPage = (props) => {
     return (
         <div className="app">
             <div className="container">
                 <img src={logo} alt="Logo" className="logo" />
-                {/* 여기에 다른 컴포넌트나 내용 추가 */}
+                <img src={props.profile} />
+                <div>
+                    <h1>{props.name}</h1>
+                </div>
             </div>
         </div>
     );
 }
 
-export default Sojeong;
+export default MemberPage;
