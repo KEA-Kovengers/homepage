@@ -17,7 +17,7 @@ function App() {
       <Route path="/" element={<MainPage />} />
       <Route path="/sojeong" element={<MemberPage profile={sojeongProfile} name='Sojeong Lee' email='thwjd0828@gachon.ac.kr' github='2sojeong' githubLink='https://github.com/2sojeong' phone='010-3511-6248' role='backend' birth='2001.08.28' mbti='ISTJ' address='경기도 성남시 수정구' />} />
       <Route path="/miso" element={<MemberPage profile={misoProfile} name='Miso Kim' email='althcjstk08@gachon.ac.kr' github='bamb14' githubLink='https://github.com/bamb14' phone='010-7930-7725' role='frontend' birth='2002.09.08' mbti='INFP' address='서울특별시 동작구' />} />
-      <Route path="/somi" element={<MemberPage profile={somiProfile} name='Somi Nam' email='' github='' githubLink='' phone='' role='' birth='' mbti='' address='' />} />
+      <Route path="/somi" element={<MemberPage profile={somiProfile} name='Somi Nam' email='somi4219@gachon.ac.kr' github='somi4219' githubLink='https://github.com/somi4219' phone='010-2312-5186' role='backend' birth='2002.10.23' mbti='ESTJ' address='경기도 안양시' />} />
       <Route path="/sangyeon" element={<MemberPage profile={sangyeonProfile} name='Sangyeon Byeon' email='' github='' githubLink='' phone='' role='' birth='' mbti='' address='' />} />
       <Route path="/hyewon" element={<MemberPage profile={hyewonProfile} name='Hyewon Yoon' email='' github='' githubLink='' phone='' role='' birth='' mbti='' address='' />} />
       <Route path="/sunghoon" element={<MemberPage profile={sunghoonProfile} name='Sunghoon Jung' email='' github='' githubLink='' phone='' role='' birth='' mbti='' address='' />} />
