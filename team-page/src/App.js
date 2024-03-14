@@ -106,14 +106,14 @@ function App() {
           <MemberPage
             profile={sunghoonProfile}
             name="Sunghoon Jung"
-            email=""
-            github=""
-            githubLink=""
-            phone=""
-            role=""
-            birth=""
-            mbti=""
-            address=""
+            email="jungsh0228@gachon.ac.kr"
+            github="wooing1084"
+            githubLink="https://github.com/wooing1084"
+            phone="010-3592-1084"
+            role="backend"
+            birth="2001.02.28"
+            mbti="ENFJ"
+            address="서울특별시 노원구"
           />
         }
       />
