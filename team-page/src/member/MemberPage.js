@@ -38,7 +38,7 @@ const MemberPage = (props) => {
                         <div>
                             <a style={{ fontSize: 48, fontWeight: 'bold' }}>Education</a>
                             <br></br><br></br><br></br>
-                            <a style={{ fontSize: 24 }}>가천대학교 소프트웨어학과</a>
+                            <a style={{ fontSize: 24 }}> {props.major} </a>
                             <br></br><br></br>
                             <div style={{ height: 6, backgroundColor: '#E9E7DB' }}></div>
                             <br></br><br></br>

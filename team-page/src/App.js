@@ -20,6 +20,7 @@ function App() {
         element={
           <MemberPage
             profile={sojeongProfile}
+            major="소프트웨어학과"
             name="Sojeong Lee"
             email="thwjd0828@gachon.ac.kr"
             github="2sojeong"
@@ -38,6 +39,7 @@ function App() {
           <MemberPage
             profile={misoProfile}
             name="Miso Kim"
+            major="소프트웨어학과"
             email="althcjstk08@gachon.ac.kr"
             github="bamb14"
             githubLink="https://github.com/bamb14"
@@ -55,6 +57,7 @@ function App() {
           <MemberPage
             profile={somiProfile}
             name="Somi Nam"
+            major="소프트웨어학과"
             email="somi4219@gachon.ac.kr"
             github="somi4219"
             githubLink="https://github.com/somi4219"
@@ -72,6 +75,7 @@ function App() {
           <MemberPage
             profile={sangyeonProfile}
             name="Sangyeon Byeon"
+            major="소프트웨어학과"
             email="jiakang@gachon.ac.kr"
             github="ideawolf"
             githubLink="https://github.com/ideawolf"
@@ -89,6 +93,7 @@ function App() {
           <MemberPage
             profile={hyewonProfile}
             name="Hyewon Yoon"
+            major="인공지능학과"
             email="iey704@gachon.ac.kr"
             github="iey704"
             githubLink="https://github.com/iey704"
@@ -106,6 +111,7 @@ function App() {
           <MemberPage
             profile={sunghoonProfile}
             name="Sunghoon Jung"
+            major="소프트웨어학과"
             email="jungsh0228@gachon.ac.kr"
             github="wooing1084"
             githubLink="https://github.com/wooing1084"
@@ -123,6 +129,7 @@ function App() {
           <MemberPage
             profile={hyunseoProfile}
             name="Hyunseo Park"
+            major="소프트웨어학과"
             email="sspp8585@gachon.ac.kr"
             github="hspark-1"
             githubLink="https://github.com/hspark-1"
